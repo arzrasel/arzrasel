@@ -2,7 +2,7 @@
 
 I am Md. Rashed - Uz - Zaman (Rz Rasel), working as senior software engineer. I really enjoy learning languages and frameworks like Java, Swift, Unity, as well as work in Python. I also enjoy wireframing, ui, ux, and design in general.
 
-### Connect with me:
+### Connect with me
 
 <img align="left" alt="rzrasel.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="rzrasel | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
@@ -12,7 +12,7 @@ I am Md. Rashed - Uz - Zaman (Rz Rasel), working as senior software engineer. I 
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
